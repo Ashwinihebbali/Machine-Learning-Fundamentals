@@ -42,22 +42,6 @@ To implement and analyze classical Machine Learning algorithms from scratch, dev
 - Gain hands-on experience with data preprocessing, label encoding, and model inference
 
 ---
-
-## 📁 Repository Structure
-
-```
-machine-learning-fundamentals/
-│
-├── LAB1.py               # Find-S Algorithm
-├── LAB2.py               # Candidate Elimination Algorithm
-├── LAB_3_Alt.ipynb       # Decision Tree Classifier
-├── trainingdata.csv      # Training data for Labs 1 & 2
-├── tennisdata.csv        # Play Tennis dataset for Lab 3
-└── README.md
-```
-
----
-
 ## 🧪 Labs Overview
 
 ### Lab 1 — Find-S Algorithm (`LAB1.py`)
