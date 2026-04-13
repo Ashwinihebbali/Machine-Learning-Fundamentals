@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>🤖 Machine Learning Fundamentals</h1>
-  <p>
+  <h1> Machine Learning Fundamentals Lab
+
+  This repo will be updated with all the Lab Programs </h1>
+  <p></p>
     <strong>Hands-on implementations of classical Machine Learning algorithms</strong><br>
     From concept learning and version spaces to decision tree classification
   </p>
