@@ -125,20 +125,6 @@ git clone https://github.com/yourusername/machine-learning-fundamentals.git
 # Install required packages
 pip install numpy pandas scikit-learn jupyter
 ```
-
-### Run Lab 1 & Lab 2
-
-```bash
-python LAB1.py
-python LAB2.py
-```
-
-### Run Lab 3
-
-```bash
-jupyter notebook LAB_3_Alt.ipynb
-```
-
 > **Note:** Ensure `trainingdata.csv` and `tennisdata.csv` are present in the working directory before execution.
 
 ---
