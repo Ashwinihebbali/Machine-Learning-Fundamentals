@@ -64,7 +64,7 @@ machine-learning-fundamentals/
 
 ### Lab 1 — Find-S Algorithm (`LAB1.py`)
 
-The Find-S algorithm is one of the simplest concept learning methods. It searches the hypothesis space from the most specific to more general hypotheses, retaining only those consistent with positive examples.
+The Find-S algorithm is one of the simplest concept learning methods. It searches the hypothesis space from the most specific to more general hypotheses, retaining only those consistent with positive examples. 
 
 **Key Concepts:** Hypothesis space, positive example filtering, attribute generalization
 
