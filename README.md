@@ -4,7 +4,7 @@
   This repo will be updated with all the Lab Programs </h1>
   <p></p>
     <strong>Hands-on implementations of classical Machine Learning algorithms</strong><br>
-    From concept learning and version  spaces to decision tree classification
+    From concept learning and version  spaces to decision tree classification 
   </p>
   <p> 
     <img src="https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
