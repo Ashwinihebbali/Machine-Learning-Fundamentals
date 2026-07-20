@@ -1,4 +1,4 @@
-><div align="center"> 
+><div align="center">
   <h1> Machine Learning Fundamentals Lab
 
   This repo will be updated with all the Lab Programs</h1>
