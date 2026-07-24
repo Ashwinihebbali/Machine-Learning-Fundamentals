@@ -7,7 +7,7 @@
     From concept learning and version  spaces to decision tree classification 
   </p>
   <p> 
-    <img src="https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img  src="https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/scikit--learn-0.19%2B-orange?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
